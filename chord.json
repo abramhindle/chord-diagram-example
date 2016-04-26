@@ -1,10 +1,5 @@
 [
  {
-  "imports": [], 
-  "name": "jcbrinfo", 
-  "size": 10
- }, 
- {
   "imports": [
    "org.antlr.v4.runtime.atn.LexerATNSimulator", 
    "org.antlr.v4.runtime.Lexer", 
@@ -146,26 +141,6 @@
   "size": 37
  }, 
  {
-  "imports": [], 
-  "name": "hkff", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Dave Parfitt", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "lkraz", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Anthony Sottile", 
-  "size": 10
- }, 
- {
   "imports": [
    "int", 
    "org.antlr.v4.codegen.OutputModelFactory", 
@@ -173,11 +148,6 @@
    "java.util.List"
   ], 
   "name": "Terence Parr", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Peter Boyer", 
   "size": 10
  }, 
  {
@@ -208,11 +178,6 @@
   "size": 142
  }, 
  {
-  "imports": [], 
-  "name": "Thomas Lottermann", 
-  "size": 10
- }, 
- {
   "imports": [
    "java.lang.Object", 
    "org.antlr.v4.runtime.misc.IntervalSet", 
@@ -226,26 +191,6 @@
   ], 
   "name": "FUJI Goro (gfx)", 
   "size": 16
- }, 
- {
-  "imports": [], 
-  "name": "sebadur", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "abrown28", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Martin Probst", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "lkraz", 
-  "size": 10
  }, 
  {
   "imports": [
@@ -282,26 +227,6 @@
   ], 
   "name": "Jason van Zyl", 
   "size": 663
- }, 
- {
-  "imports": [], 
-  "name": "Michael Kriese", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Alan D. Cabrera", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Raphael R", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Robbie Cooper", 
-  "size": 10
  }, 
  {
   "imports": [
@@ -347,11 +272,6 @@
   ], 
   "name": "Josh Chase", 
   "size": 44
- }, 
- {
-  "imports": [], 
-  "name": "Jim Idle", 
-  "size": 10
  }, 
  {
   "imports": [
@@ -419,11 +339,6 @@
   "size": 2483
  }, 
  {
-  "imports": [], 
-  "name": "Martin von Gagern", 
-  "size": 10
- }, 
- {
   "imports": [
    "org.antlr.v4.runtime.atn.LexerATNSimulator", 
    "org.antlr.v4.runtime.Lexer", 
@@ -475,46 +390,6 @@
   "size": 3388
  }, 
  {
-  "imports": [], 
-  "name": "cayhorstmann", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Michael Kriese", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Ryan Harris", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Geert Van Laethem", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Sergey Ponomarev", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Sebastian Badur", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Jan-Eric Duden", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "David Tymon", 
-  "size": 10
- }, 
- {
   "imports": [
    "org.antlr.v4.codegen.OutputModelController", 
    "java.util.List", 
@@ -527,41 +402,6 @@
   "size": 15
  }, 
  {
-  "imports": [], 
-  "name": "Petr B\u011blohl\u00e1vek", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Bryan Wilhelm", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Ondrej Jakubcik", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Alex Fedotov", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "David Whitten", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "P\u00e9tur Ingi Egilsson", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "niuniu4", 
-  "size": 10
- }, 
- {
   "imports": [
    "java.lang.Object", 
    "java.util.Set", 
@@ -571,11 +411,6 @@
    "org.antlr.v4.tool.ast.GrammarAST"
   ], 
   "name": "Justin Szaday", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "jszheng", 
   "size": 10
  }, 
  {
@@ -596,16 +431,6 @@
   "size": 38
  }, 
  {
-  "imports": [], 
-  "name": "Petr B\u011blohl\u00e1vek", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Kyle Kingsbury", 
-  "size": 10
- }, 
- {
   "imports": [
    "int", 
    "java.lang.reflect.Array", 
@@ -613,11 +438,6 @@
    "java.util.Arrays"
   ], 
   "name": "Martin Steiger", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "sergiusignacius", 
   "size": 10
  }, 
  {
@@ -721,16 +541,6 @@
   "size": 3805
  }, 
  {
-  "imports": [], 
-  "name": "Kazunori Sakamoto", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Fabio Ramponi", 
-  "size": 10
- }, 
- {
   "imports": [
    "org.antlr.v4.runtime.Lexer", 
    "org.antlr.v4.codegen.CodeGenerator", 
@@ -816,51 +626,11 @@
   "size": 10912
  }, 
  {
-  "imports": [], 
-  "name": "RedTailedHawk", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Robert Jacobson", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "shinpei", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Pe\u0301tur Ingi Egilsson", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "beardlybread", 
-  "size": 10
- }, 
- {
   "imports": [
    "org.antlr.v4.codegen.CodeGenerator", 
    "java.util.List"
   ], 
   "name": "Stephen Gaito", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Brian Kearns", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Raz Friman", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Rajiv Subrahmanyam", 
   "size": 10
  }, 
  {
@@ -878,16 +648,6 @@
   ], 
   "name": "Michael Peyton Jones", 
   "size": 52
- }, 
- {
-  "imports": [], 
-  "name": "Krzysztof Kaczor", 
-  "size": 10
- }, 
- {
-  "imports": [], 
-  "name": "Sebastian Kreft", 
-  "size": 10
  }, 
  {
   "imports": [], 

@@ -20,7 +20,7 @@ def dec(commit,jtype):
 
     
 for d in x["dates"]:
-    if d["type"] in big_types:
+    if d["type"] in big_types:        
         inc(d["commitID"],d["type"])
 
 
@@ -31,7 +31,7 @@ def link_to_node(name,link,minsize=10):
     return {"name":name,"size":size,"imports":imports}
 
 nodes = [link_to_node(author, links[author]) for author in authors]
-nodes = [node for node in nodes if node["size"] > 0]
+nodes = [node for node in nodes if node["size"] > 0 and len(node["imports"]) > 0]
 nodes = nodes + [link_to_node(jtype, {}) for jtype in big_types]
 
 json.dump(nodes,file("chord.json","w"),indent=1)
