@@ -1,0 +1,1197 @@
+[
+ {
+  "imports": [], 
+  "name": "jcbrinfo", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.antlr.v4.runtime.Lexer", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "org.stringtemplate.v4.ST", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "int", 
+   "org.antlr.v4.parse.ActionSplitter", 
+   "java.util.Map", 
+   "boolean", 
+   "org.antlr.v4.runtime.misc.IntegerList", 
+   "java.lang.String", 
+   "org.antlr.v4.runtime.CharStream", 
+   "java.util.List", 
+   "java.lang.Throwable", 
+   "org.antlr.v4.runtime.atn.PredictionContext", 
+   "org.antlr.v4.tool.Grammar", 
+   "equeue.errors", 
+   "org.antlr.v4.runtime.Token", 
+   "org.junit.Assert", 
+   "org.antlr.v4.runtime.atn.ATNState", 
+   "java.io.PrintStream", 
+   "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+   "java.util.Arrays", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.Tool", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "org.antlr.v4.test.BaseTest", 
+   "org.antlr.v4.tool.ANTLRMessage", 
+   "org.antlr.v4.test.runtime.csharp.BaseTest", 
+   "org.antlr.v4.test.tool.BaseTest", 
+   "java.lang.System", 
+   "java.lang.Object", 
+   "java.lang.Thread", 
+   "java.util.Collections", 
+   "org.antlr.v4.runtime.Parser", 
+   "org.antlr.runtime.Token", 
+   "java.lang.reflect.Array", 
+   "org.stringtemplate.v4.STGroup", 
+   "org.antlr.v4.tool.ast.GrammarAST", 
+   "java.io.File", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "equeue.warnings"
+  ], 
+  "name": "ericvergnaud", 
+  "size": 4401
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.antlr.v4.runtime.Lexer", 
+   "int", 
+   "boolean", 
+   "java.lang.String", 
+   "org.antlr.v4.runtime.CharStream", 
+   "org.antlr.v4.runtime.Token", 
+   "java.lang.Throwable", 
+   "equeue.errors", 
+   "org.junit.Assert", 
+   "java.io.PrintStream", 
+   "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+   "java.util.Arrays", 
+   "java.lang.StringBuilder", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "java.lang.System", 
+   "java.util.List", 
+   "java.lang.Thread", 
+   "java.util.Collections", 
+   "org.antlr.v4.runtime.Parser", 
+   "java.lang.reflect.Array", 
+   "java.io.File"
+  ], 
+  "name": "nttdatahenriksorensen", 
+  "size": 297
+ }, 
+ {
+  "imports": [
+   "java.lang.String"
+  ], 
+  "name": "Pavlo V. Lysov", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "org.stringtemplate.v4.ST", 
+   "int", 
+   "java.util.Map", 
+   "boolean", 
+   "org.antlr.v4.runtime.misc.IntegerList", 
+   "java.lang.String", 
+   "org.antlr.v4.runtime.CharStream", 
+   "java.util.List", 
+   "java.lang.Throwable", 
+   "org.antlr.v4.tool.Grammar", 
+   "equeue.errors", 
+   "org.antlr.v4.runtime.Token", 
+   "org.junit.Assert", 
+   "java.io.PrintStream", 
+   "org.antlr.v4.tool.ast.GrammarAST", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.Tool", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "org.antlr.v4.tool.ANTLRMessage", 
+   "org.antlr.v4.test.runtime.csharp.BaseTest", 
+   "java.lang.System", 
+   "java.lang.Object", 
+   "java.lang.Thread", 
+   "java.util.Collections", 
+   "java.lang.reflect.Array", 
+   "org.stringtemplate.v4.STGroup", 
+   "java.util.Arrays", 
+   "java.io.File", 
+   "equeue.warnings"
+  ], 
+  "name": "Eric Vergnaud", 
+  "size": 856
+ }, 
+ {
+  "imports": [
+   "java.lang.Throwable", 
+   "org.antlr.v4.test.BaseTest", 
+   "java.lang.String", 
+   "java.util.List", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "java.lang.StringBuilder", 
+   "java.util.Set", 
+   "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+   "org.stringtemplate.v4.STGroup", 
+   "java.io.File", 
+   "java.lang.StringBuffer", 
+   "java.io.PrintStream"
+  ], 
+  "name": "sharwell", 
+  "size": 37
+ }, 
+ {
+  "imports": [], 
+  "name": "hkff", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Dave Parfitt", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "lkraz", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Anthony Sottile", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "int", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "java.lang.String", 
+   "java.util.List"
+  ], 
+  "name": "Terence Parr", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Peter Boyer", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "java.util.Map", 
+   "org.antlr.v4.test.BaseTest", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "java.lang.Object", 
+   "java.util.List", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "int", 
+   "java.util.Collections", 
+   "org.antlr.v4.runtime.Parser", 
+   "org.antlr.v4.tool.Grammar", 
+   "java.lang.Class", 
+   "java.util.ArrayList", 
+   "java.lang.reflect.Array", 
+   "boolean", 
+   "java.lang.StringBuilder", 
+   "org.junit.Assert", 
+   "org.antlr.v4.runtime.atn.ATNState", 
+   "java.io.File", 
+   "java.lang.String", 
+   "java.util.Arrays"
+  ], 
+  "name": "Sam Harwell", 
+  "size": 142
+ }, 
+ {
+  "imports": [], 
+  "name": "Thomas Lottermann", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "java.lang.Object", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "java.lang.Thread", 
+   "java.lang.StringBuilder", 
+   "java.util.Map", 
+   "org.antlr.v4.runtime.misc.IntegerList", 
+   "java.io.File", 
+   "java.lang.String", 
+   "java.util.Arrays"
+  ], 
+  "name": "FUJI Goro (gfx)", 
+  "size": 16
+ }, 
+ {
+  "imports": [], 
+  "name": "sebadur", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "abrown28", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Martin Probst", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "lkraz", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "org.stringtemplate.v4.ST", 
+   "int", 
+   "java.util.Map", 
+   "org.antlr.v4.runtime.misc.IntegerList", 
+   "java.lang.String", 
+   "org.antlr.v4.runtime.CharStream", 
+   "java.util.List", 
+   "java.lang.Throwable", 
+   "org.antlr.v4.tool.Grammar", 
+   "equeue.errors", 
+   "org.antlr.v4.runtime.Token", 
+   "org.junit.Assert", 
+   "java.io.PrintStream", 
+   "java.util.Arrays", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.Tool", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "org.antlr.v4.tool.ANTLRMessage", 
+   "org.antlr.v4.test.runtime.csharp.BaseTest", 
+   "org.antlr.v4.test.tool.BaseTest", 
+   "java.lang.System", 
+   "java.lang.Object", 
+   "java.lang.Thread", 
+   "java.util.Collections", 
+   "equeue.warnings", 
+   "org.stringtemplate.v4.STGroup", 
+   "java.io.File"
+  ], 
+  "name": "Jason van Zyl", 
+  "size": 663
+ }, 
+ {
+  "imports": [], 
+  "name": "Michael Kriese", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Alan D. Cabrera", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Raphael R", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Robbie Cooper", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "org.antlr.v4.semantics.Grammar", 
+   "org.stringtemplate.v4.ST", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "int", 
+   "java.util.Map", 
+   "boolean", 
+   "java.lang.String", 
+   "java.util.List", 
+   "java.lang.reflect.Array", 
+   "g.tool.errMgr", 
+   "org.antlr.v4.tool.Grammar", 
+   "org.junit.Assert", 
+   "org.antlr.v4.runtime.atn.ATNState", 
+   "java.io.PrintStream", 
+   "java.util.Arrays", 
+   "java.util.Set", 
+   "org.antlr.v4.tool.Rule", 
+   "org.stringtemplate.v4.STGroup", 
+   "org.antlr.v4.tool.ast.GrammarAST", 
+   "org.antlr.v4.tool.ErrorManager", 
+   "java.io.File", 
+   "org.antlr.v4.parse.GrammarTreeVisitor", 
+   "org.antlr.runtime.Token"
+  ], 
+  "name": "Ivan Kochurkin", 
+  "size": 286
+ }, 
+ {
+  "imports": [
+   "java.util.List", 
+   "java.util.Collections", 
+   "org.antlr.v4.Tool", 
+   "java.util.Set", 
+   "java.util.Map", 
+   "boolean", 
+   "java.io.File", 
+   "java.lang.String", 
+   "java.util.Arrays"
+  ], 
+  "name": "Josh Chase", 
+  "size": 44
+ }, 
+ {
+  "imports": [], 
+  "name": "Jim Idle", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "java.lang.System", 
+   "java.io.File", 
+   "java.lang.Throwable"
+  ], 
+  "name": "Bart Kiers", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.antlr.v4.runtime.Lexer", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "org.antlr.v4.semantics.Grammar", 
+   "org.stringtemplate.v4.ST", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "int", 
+   "java.util.Map", 
+   "java.util.ArrayList", 
+   "boolean", 
+   "org.antlr.v4.runtime.misc.IntegerList", 
+   "org.antlr.v4.codegen.OutputModelController", 
+   "java.lang.String", 
+   "org.antlr.v4.runtime.CharStream", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "org.antlr.v4.runtime.Token", 
+   "org.antlr.v4.tool.Rule", 
+   "g.tool.errMgr", 
+   "java.lang.Throwable", 
+   "org.antlr.v4.runtime.atn.PredictionContext", 
+   "org.antlr.v4.tool.Grammar", 
+   "org.antlr.v4.parse.ANTLRLexer", 
+   "equeue.errors", 
+   "org.junit.Assert", 
+   "input", 
+   "java.io.PrintStream", 
+   "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+   "java.util.Arrays", 
+   "org.antlr.v4.tool.GrammarAST", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.Tool", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "org.antlr.v4.runtime.atn.ATNState", 
+   "org.antlr.v4.test.BaseTest", 
+   "org.antlr.v4.tool.ANTLRMessage", 
+   "java.lang.Object", 
+   "java.lang.System", 
+   "java.util.List", 
+   "java.lang.Thread", 
+   "java.util.Collections", 
+   "org.antlr.v4.runtime.Parser", 
+   "org.antlr.runtime.Token", 
+   "java.lang.reflect.Array", 
+   "org.stringtemplate.v4.STGroup", 
+   "org.antlr.v4.tool.ast.GrammarAST", 
+   "org.antlr.v4.tool.ErrorManager", 
+   "java.io.File", 
+   "java.lang.StringBuffer", 
+   "equeue.warnings"
+  ], 
+  "name": "Sam Harwell", 
+  "size": 2483
+ }, 
+ {
+  "imports": [], 
+  "name": "Martin von Gagern", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.antlr.v4.runtime.Lexer", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "org.stringtemplate.v4.ST", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "int", 
+   "org.antlr.v4.parse.ActionSplitter", 
+   "java.util.Map", 
+   "boolean", 
+   "org.antlr.v4.runtime.misc.IntegerList", 
+   "org.antlr.v4.codegen.OutputModelController", 
+   "java.lang.String", 
+   "org.antlr.v4.runtime.CharStream", 
+   "java.util.List", 
+   "java.lang.reflect.Array", 
+   "g.tool.errMgr", 
+   "java.lang.Throwable", 
+   "org.antlr.v4.runtime.atn.PredictionContext", 
+   "org.antlr.v4.tool.Grammar", 
+   "org.antlr.v4.parse.ANTLRLexer", 
+   "equeue.errors", 
+   "org.junit.Assert", 
+   "org.antlr.v4.runtime.atn.ATNState", 
+   "java.io.PrintStream", 
+   "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+   "java.util.Arrays", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.Tool", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "org.antlr.v4.tool.ANTLRMessage", 
+   "org.antlr.v4.test.runtime.csharp.BaseTest", 
+   "java.lang.Object", 
+   "org.antlr.v4.test.tool.BaseTest", 
+   "java.lang.System", 
+   "org.antlr.v4.runtime.Token", 
+   "equeue.warnings", 
+   "java.util.Collections", 
+   "org.antlr.v4.runtime.Parser", 
+   "java.lang.Thread", 
+   "org.stringtemplate.v4.STGroup", 
+   "org.antlr.v4.tool.ast.GrammarAST", 
+   "java.io.File", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "org.antlr.runtime.Token"
+  ], 
+  "name": "parrt", 
+  "size": 3388
+ }, 
+ {
+  "imports": [], 
+  "name": "cayhorstmann", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Michael Kriese", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Ryan Harris", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Geert Van Laethem", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Sergey Ponomarev", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Sebastian Badur", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Jan-Eric Duden", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "David Tymon", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.codegen.OutputModelController", 
+   "java.util.List", 
+   "org.antlr.v4.tool.Grammar", 
+   "org.stringtemplate.v4.STGroup", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "java.util.Arrays"
+  ], 
+  "name": "Martin von Gagern", 
+  "size": 15
+ }, 
+ {
+  "imports": [], 
+  "name": "Petr B\u011blohl\u00e1vek", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Bryan Wilhelm", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Ondrej Jakubcik", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Alex Fedotov", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "David Whitten", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "P\u00e9tur Ingi Egilsson", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "niuniu4", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "java.lang.Object", 
+   "java.util.Set", 
+   "java.lang.reflect.Array", 
+   "org.stringtemplate.v4.STGroup", 
+   "java.util.Arrays", 
+   "org.antlr.v4.tool.ast.GrammarAST"
+  ], 
+  "name": "Justin Szaday", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "jszheng", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "java.lang.Throwable", 
+   "org.antlr.v4.runtime.Lexer", 
+   "java.util.List", 
+   "java.lang.Thread", 
+   "org.antlr.v4.runtime.Parser", 
+   "java.lang.Class", 
+   "int", 
+   "boolean", 
+   "java.io.PrintStream", 
+   "java.lang.String", 
+   "java.io.File"
+  ], 
+  "name": "HSorensen", 
+  "size": 38
+ }, 
+ {
+  "imports": [], 
+  "name": "Petr B\u011blohl\u00e1vek", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Kyle Kingsbury", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "int", 
+   "java.lang.reflect.Array", 
+   "java.lang.String", 
+   "java.util.Arrays"
+  ], 
+  "name": "Martin Steiger", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "sergiusignacius", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.stringtemplate.v4.ST", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "int", 
+   "java.util.Map", 
+   "java.util.ArrayList", 
+   "boolean", 
+   "java.lang.String", 
+   "org.antlr.v4.test.BaseTest", 
+   "java.util.List", 
+   "java.lang.Throwable", 
+   "org.antlr.v4.runtime.atn.PredictionContext", 
+   "org.antlr.v4.tool.Grammar", 
+   "org.antlr.v4.runtime.tree.ASTAdaptor", 
+   "org.antlr.v4.runtime.Token", 
+   "org.junit.Assert", 
+   "java.io.PrintStream", 
+   "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+   "org.antlr.v4.tool.ast.GrammarAST", 
+   "org.antlr.v4.runtime.BaseRecognizer", 
+   "java.lang.StringBuilder", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "java.lang.System", 
+   "org.antlr.v4.tool.ANTLRMessage", 
+   "org.antlr.v4.semantics.GrammarAST", 
+   "java.lang.StringBuffer", 
+   "java.lang.Object", 
+   "java.util.Collections", 
+   "org.antlr.v4.runtime.Parser", 
+   "java.lang.reflect.Array", 
+   "java.util.Arrays", 
+   "java.io.File", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "org.antlr.runtime.Token"
+  ], 
+  "name": "sharwell", 
+  "size": 559
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.antlr.v4.runtime.Lexer", 
+   "org.antlr.v4.codegen.OutputModelController", 
+   "org.antlr.v4.semantics.Grammar", 
+   "org.stringtemplate.v4.ST", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "int", 
+   "org.antlr.v4.parse.ActionSplitter", 
+   "java.util.Map", 
+   "java.util.ArrayList", 
+   "boolean", 
+   "org.antlr.v4.runtime.misc.IntegerList", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "java.lang.String", 
+   "org.antlr.v4.test.BaseTest", 
+   "java.util.List", 
+   "java.lang.reflect.Array", 
+   "g.tool.errMgr", 
+   "java.lang.Throwable", 
+   "org.antlr.v4.runtime.atn.PredictionContext", 
+   "org.antlr.v4.tool.Grammar", 
+   "org.antlr.v4.parse.ANTLRLexer", 
+   "equeue.errors", 
+   "org.antlr.v4.runtime.Token", 
+   "org.junit.Assert", 
+   "org.antlr.v4.runtime.atn.ATNState", 
+   "java.io.PrintStream", 
+   "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+   "org.antlr.v4.tool.ast.GrammarAST", 
+   "org.antlr.v4.tool.GrammarAST", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.Tool", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "input", 
+   "org.antlr.v4.tool.ANTLRMessage", 
+   "org.antlr.v4.semantics.GrammarAST", 
+   "org.antlr.v4.runtime.CharStream", 
+   "org.antlr.v4.test.tool.BaseTest", 
+   "java.lang.System", 
+   "java.lang.Object", 
+   "java.lang.Thread", 
+   "java.util.Collections", 
+   "org.antlr.v4.runtime.Parser", 
+   "org.antlr.v4.tool.Rule", 
+   "org.stringtemplate.v4.STGroup", 
+   "org.antlr.v4.parse.ANTLRParser", 
+   "java.util.Arrays", 
+   "org.antlr.v4.tool.ErrorManager", 
+   "java.io.File", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "org.antlr.v4.parse.GrammarTreeVisitor", 
+   "org.antlr.runtime.Token"
+  ], 
+  "name": "Terence Parr", 
+  "size": 3805
+ }, 
+ {
+  "imports": [], 
+  "name": "Kazunori Sakamoto", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Fabio Ramponi", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.Lexer", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "java.util.List", 
+   "int", 
+   "g.tool.errMgr", 
+   "org.antlr.v4.runtime.Parser", 
+   "org.antlr.v4.parse.ActionSplitter", 
+   "java.lang.Class", 
+   "java.util.Map", 
+   "java.lang.Thread", 
+   "boolean", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "java.io.PrintStream", 
+   "java.lang.String", 
+   "org.antlr.runtime.Token"
+  ], 
+  "name": "Udo Borkowski", 
+  "size": 79
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+   "org.antlr.v4.runtime.Parser", 
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "org.antlr.v4.semantics.Grammar", 
+   "org.antlr.v4.parse.ASTVerifier", 
+   "org.antlr.v4.runtime.misc.IntervalSet", 
+   "int", 
+   "ErrorManager", 
+   "org.antlr.v4.parse.ActionSplitter", 
+   "java.util.Map", 
+   "java.util.ArrayList", 
+   "boolean", 
+   "org.antlr.v4.codegen.OutputModelController", 
+   "java.lang.String", 
+   "org.antlr.v4.misc.IntervalSet", 
+   "org.antlr.v4.parse.ANTLRLexer", 
+   "org.antlr.v4.codegen.OutputModelFactory", 
+   "org.stringtemplate.v4.ST", 
+   "java.util.List", 
+   "org.antlr.v4.tool.Rule", 
+   "g.tool.errMgr", 
+   "java.lang.Throwable", 
+   "org.antlr.v4.tool.Grammar", 
+   "org.antlr.v4.runtime.tree.ASTAdaptor", 
+   "equeue.errors", 
+   "org.antlr.v4.runtime.CharStream", 
+   "org.junit.Assert", 
+   "input", 
+   "java.io.PrintStream", 
+   "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+   "java.util.Arrays", 
+   "org.antlr.v4.tool.GrammarAST", 
+   "org.antlr.v4.runtime.BaseRecognizer", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.Tool", 
+   "java.util.Set", 
+   "java.lang.Class", 
+   "org.antlr.v4.runtime.atn.ATNState", 
+   "org.antlr.v4.test.BaseTest", 
+   "equeue.warnings", 
+   "org.antlr.v4.tool.ANTLRMessage", 
+   "org.antlr.v4.semantics.GrammarAST", 
+   "java.lang.System", 
+   "java.lang.Object", 
+   "java.lang.Thread", 
+   "java.util.Collections", 
+   "org.antlr.v4.runtime.Lexer", 
+   "java.lang.reflect.Array", 
+   "org.stringtemplate.v4.STGroup", 
+   "org.antlr.v4.parse.ANTLRParser", 
+   "org.antlr.v4.tool.ast.GrammarAST", 
+   "org.antlr.v4.tool.ErrorManager", 
+   "org.antlr.v4.runtime.Token", 
+   "java.io.File", 
+   "java.lang.StringBuffer", 
+   "org.antlr.v4.parse.GrammarTreeVisitor", 
+   "org.antlr.runtime.Token"
+  ], 
+  "name": "parrt", 
+  "size": 10912
+ }, 
+ {
+  "imports": [], 
+  "name": "RedTailedHawk", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Robert Jacobson", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "shinpei", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Pe\u0301tur Ingi Egilsson", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "beardlybread", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.codegen.CodeGenerator", 
+   "java.util.List"
+  ], 
+  "name": "Stephen Gaito", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Brian Kearns", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Raz Friman", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Rajiv Subrahmanyam", 
+  "size": 10
+ }, 
+ {
+  "imports": [
+   "org.antlr.v4.parse.ANTLRLexer", 
+   "org.antlr.v4.runtime.Lexer", 
+   "java.util.List", 
+   "org.antlr.v4.runtime.Token", 
+   "java.lang.StringBuilder", 
+   "org.antlr.v4.Tool", 
+   "org.antlr.v4.tool.Grammar", 
+   "org.junit.Assert", 
+   "java.lang.String", 
+   "org.antlr.v4.tool.ast.GrammarAST"
+  ], 
+  "name": "Michael Peyton Jones", 
+  "size": 52
+ }, 
+ {
+  "imports": [], 
+  "name": "Krzysztof Kaczor", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "Sebastian Kreft", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.atn.LexerATNSimulator", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.Lexer", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.codegen.OutputModelController", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.misc.IntervalSet", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.stringtemplate.v4.ST", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.misc.IntervalSet", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "int", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "ErrorManager", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.parse.ActionSplitter", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.util.Map", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.util.ArrayList", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "boolean", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.misc.IntegerList", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.codegen.CodeGenerator", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.String", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.semantics.Grammar", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.parse.ANTLRLexer", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.codegen.OutputModelFactory", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.parse.ASTVerifier", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.util.List", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.reflect.Array", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.parse.ANTLRParser", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "g.tool.errMgr", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.util.Set", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.Throwable", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.atn.PredictionContext", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.tool.Grammar", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "equeue.errors", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.CharStream", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.junit.Assert", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "input", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.io.PrintStream", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.atn.ParserATNSimulator", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.tool.ast.GrammarAST", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.tool.GrammarAST", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.BaseRecognizer", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.StringBuilder", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.Tool", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.test.BaseTest", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.Class", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.atn.ATNState", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "equeue.warnings", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.tool.ANTLRMessage", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.test.runtime.csharp.BaseTest", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.Object", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.test.tool.BaseTest", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.System", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.tree.ASTAdaptor", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.Thread", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.util.Collections", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.Parser", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.tool.Rule", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.stringtemplate.v4.STGroup", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.semantics.GrammarAST", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.util.Arrays", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.tool.ErrorManager", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.runtime.Token", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.io.File", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "java.lang.StringBuffer", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.v4.parse.GrammarTreeVisitor", 
+  "size": 10
+ }, 
+ {
+  "imports": [], 
+  "name": "org.antlr.runtime.Token", 
+  "size": 10
+ }
+]
